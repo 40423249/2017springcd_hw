@@ -22,7 +22,7 @@
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170215103217.1"><vh>編輯 template</vh>
+<v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
 <v t="yen.20170215103228.1"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
@@ -33,7 +33,7 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
@@ -60,21 +60,21 @@
 <v t="leo.20170404003906.2"><vh>上課內容</vh>
 <v t="leo.20170404003906.3"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170415012311.1"><vh>影片</vh>
+<v t="leo.20170415012311.1" a="E"><vh>影片</vh>
 <v t="leo.20170415012311.2"><vh>影片</vh></v>
 </v>
 <v t="leo.20170404003906.4" a="E"><vh>心得</vh>
 <v t="leo.20170404003906.5"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170405084353.1"><vh>20170308</vh>
+<v t="leo.20170405084353.1" a="E"><vh>20170308</vh>
 <v t="leo.20170405084353.2" a="E"><vh>日期</vh>
 <v t="leo.20170405084353.3"><vh>日期</vh></v>
 </v>
 <v t="leo.20170405084353.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170405084353.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170423151325.1"><vh>影片1</vh>
+<v t="leo.20170423151325.1" a="E"><vh>影片1</vh>
 <v t="leo.20170423151325.2"><vh>影片1</vh></v>
 </v>
 <v t="leo.20170423151340.1" a="E"><vh>影片2</vh>
@@ -91,7 +91,7 @@
 <v t="leo.20170405085629.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170405085629.5"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170423160225.1"><vh>影片1</vh>
+<v t="leo.20170423160225.1" a="E"><vh>影片1</vh>
 <v t="leo.20170423160225.2"><vh>影片1</vh></v>
 </v>
 <v t="leo.20170424004824.1" a="E"><vh>影片2</vh>
@@ -103,7 +103,7 @@
 <v t="leo.20170405110303.1" a="E"><vh>解決辦法</vh>
 <v t="leo.20170405110303.2"><vh>解決辦法</vh></v>
 </v>
-<v t="leo.20170405105804.1"><vh>心得</vh>
+<v t="leo.20170405105804.1" a="E"><vh>心得</vh>
 <v t="leo.20170405105804.2"><vh>心得</vh></v>
 </v>
 </v>
@@ -135,7 +135,7 @@
 <v t="leo.20170405092216.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170424160323.1" a="E"><vh>20170405</vh>
+<v t="leo.20170424160323.1"><vh>20170405</vh>
 <v t="leo.20170424160323.2" a="E"><vh>日期</vh>
 <v t="leo.20170424160323.3"><vh>日期</vh></v>
 </v>
@@ -160,15 +160,12 @@
 <v t="leo.20170424160324.9"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170424160326.1" a="E"><vh>20170419</vh>
+<v t="leo.20170424160326.1"><vh>20170419</vh>
 <v t="leo.20170424160326.2" a="E"><vh>日期</vh>
 <v t="leo.20170424160326.3"><vh>日期</vh></v>
 </v>
 <v t="leo.20170424160326.4" a="E"><vh>上課內容</vh>
 <v t="leo.20170424160326.5"><vh>上課內容</vh></v>
-</v>
-<v t="leo.20170424160326.6" a="E"><vh>影片</vh>
-<v t="leo.20170424160326.7"><vh>影片</vh></v>
 </v>
 <v t="leo.20170424160326.8" a="E"><vh>心得</vh>
 <v t="leo.20170424160326.9"><vh>心得</vh></v>
@@ -189,7 +186,7 @@
 <v t="leo.20170424143846.1"><vh>@edit 20170405.md</vh></v>
 <v t="leo.20170424143916.1"><vh>@edit 20170412.md</vh></v>
 <v t="leo.20170424143935.1"><vh>@edit 20170419.md</vh></v>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
+<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -210,7 +207,7 @@
 <v t="yen.20170120232548.1"><vh>calendar example</vh></v>
 <v t="yen.20170123204227.1"><vh>印出月曆以及各課程上課日期</vh></v>
 <v t="yen.20170207092354.1"><vh>協同程式參考</vh></v>
-<v t="yen.20170124102405.1"><vh>chat</vh>
+<v t="yen.20170124102405.1" a="E"><vh>chat</vh>
 <v t="yen.20170124102433.1"><vh>index.html</vh></v>
 </v>
 </v>
@@ -234,7 +231,7 @@
 </t>
 <t tx="leo.20170305005542.3"># 心得
 
-這又是新的學期，開始交新的東西，雖然上學習被當了。但下學期還是會努力學習。
+新的學期，新的開始，開始教一些新的東西，因為上學期被當掉，所以這學期要更認真了。
 </t>
 <t tx="leo.20170404000513.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -283,7 +280,7 @@
 </t>
 <t tx="leo.20170404003906.5"># 心得
 
-這是第二次上課，重新分組了，但還是要用Solvespace畫4連桿機構組。感覺跟上學習差不多。
+第二次上課，採用新的上課方式，所以分組了，內容大致上是用Solvespace畫四連桿機構，目前感覺跟之前差不多。
 </t>
 <t tx="leo.20170404004910.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -350,7 +347,7 @@
 </t>
 <t tx="leo.20170405084353.7"># 心得
 
-這是第三次上課，要開始畫圖了，畫圖的話跟之前一樣但這學期的wiki要在不同的地方編輯，感覺怪怪的，但用久就習慣了。
+第三次上課，開始畫圖了，畫圖的話跟之前差不多都是用Solvespace，只是wiki的部分好像跟之前不同，可能還要研究一下。
 </t>
 <t tx="leo.20170405085629.1">&lt;section&gt;
 @others
@@ -442,7 +439,7 @@
 </t>
 <t tx="leo.20170405090545.7"># 心得
 
-這是第五次上課，老師教我們如何在fossil筆記倉儲主頁顯示作業，並利用Solvespace讓四桿機構轉動，今天學的真多。
+第五次上課，這次老師教我們在fossil筆記倉儲主頁顯示作業，並利用Solvespace讓四桿機構轉動，因為是第一次用fossil，還不太習慣，可能還要再加強。
 </t>
 <t tx="leo.20170405092216.1">&lt;section&gt;
 @others
@@ -485,7 +482,7 @@
 </t>
 <t tx="leo.20170405092216.7"># 心得
 
-這是第六次上課，這次跟上次一樣，只是用不同的軟體開啟而已，真是簡單。
+第六次上課，這次跟上次差不多，只是用不同的軟體來執行，還能勉強跟上進度。
 </t>
 <t tx="leo.20170405105804.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -500,7 +497,7 @@
 </t>
 <t tx="leo.20170405105804.2"># 心得
 
-這是第四次上課，跟上禮拜一樣在畫圖，但這次還多了要創建自己組的協同主機。還好滿簡單的。
+第四次上課，跟上禮拜一樣在畫圖，還有組長要設置我們這組的協同主機，還好組長很給力。
 </t>
 <t tx="leo.20170405110303.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -527,7 +524,7 @@
 </t>
 <t tx="leo.20170414180543.2"># 影片
 
-&lt;iframe src="https://player.vimeo.com/video/213207897" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214872971" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 <t tx="leo.20170415012311.1">&lt;section data-markdown&gt;
@@ -539,7 +536,7 @@
 </t>
 <t tx="leo.20170415012311.2"># 影片
 
-&lt;iframe src="https://player.vimeo.com/video/213250415" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214874162" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170423151325.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -550,7 +547,7 @@
 </t>
 <t tx="leo.20170423151325.2"># 影片1
 
-&lt;iframe src="https://player.vimeo.com/video/214355570" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214885743" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170423151340.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -561,7 +558,7 @@
 </t>
 <t tx="leo.20170423151340.2"># 影片2
 
-&lt;iframe src="https://player.vimeo.com/video/214357898" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214885840" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170423160225.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -605,7 +602,7 @@
 </t>
 <t tx="leo.20170424030257.2"># 影片
 
-&lt;iframe src="https://player.vimeo.com/video/214401019" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/214883161" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20170424160323.1">&lt;section&gt;
 @others
@@ -660,7 +657,7 @@
 </t>
 <t tx="leo.20170424160323.9"># 心得
 
-&lt;p&gt;這是第七次上課，跟之前一樣畫圖，只是這次比較多，而且這次有教Fossil推送檔案，學的真多。&lt;/p&gt;
+&lt;p&gt;第七次上課，也是畫圖，只是這次畫的圖比較多一點，而且這次有教用Fossil推送檔案，蠻新的東西。&lt;/p&gt;
 </t>
 <t tx="leo.20170424160324.1">&lt;section&gt;
 @others
@@ -703,7 +700,7 @@
 </t>
 <t tx="leo.20170424160324.9"># 心得
 
-這是第八次上課，開始自評了，也要開始做東西了。不然會40分。
+第八次上課，開始自評了，做了一些東西發現了一堆問題，要趕快處理好。
 </t>
 <t tx="leo.20170424160326.1">&lt;section&gt;
 @others
@@ -733,17 +730,6 @@
 
 
 </t>
-<t tx="leo.20170424160326.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20170424160326.7"># 影片
-
-&lt;iframe src="https://player.vimeo.com/video/214531938" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="leo.20170424160326.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -757,7 +743,7 @@
 </t>
 <t tx="leo.20170424160326.9"># 心得
 
-這是第九次上課，這次有期中測驗，雖然我有去上課，但還是有很多不懂。還好有組員可以問。經過大家的努力，終於做了一點東西，但卻不是老師要的，真可惜。但團隊討論的感覺真真的很棒。
+第九次上課，這次有期中測驗，好多東西都不太懂。還好有其他組員可以一起討論。經過一段時間的努力，終於做出一點東西，可是好像沒有完全正確，真可惜。不過這樣大家一起討論所做出來的東西感覺真的很棒。
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
@@ -1014,12 +1000,12 @@ make.start()</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [NFU-40423225-洪嘉緯](https://40423225.github.io/2017springcd_hw/blog/)
+Created by [40423249-蔡憲佳](https://40423249.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
 [協同產品設計實習課程網誌](blog/index.html)
 
-[Vimeo 上課心得影片](https://vimeo.com/user60053503)
+[Vimeo 上課心得影片](https://vimeo.com/user61519433)
 
 
 </t>
