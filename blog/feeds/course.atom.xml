@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (NFU-40423225-洪嘉緯)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T22:00:00+08:00</updated><entry><title>Week 9</title><link href="./Week%209.html" rel="alternate"></link><published>2017-04-19T22:00:00+08:00</published><updated>2017-04-19T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-04-19:./Week 9.html</id><summary type="html">&lt;p&gt;期中測驗&lt;/p&gt;
+
+
+&lt;h3&gt;Solvespace&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W9-1.png" width="800" /&gt;&lt;/p&gt;
+&lt;h3&gt;路徑圖&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W9-2.png" width="800" /&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214531938" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這是第九次上課，這次有期中測驗，雖然我有去上課，但還是有很多不懂。還好有組員可以問。經過大家的努力，終於做了一點東西，但卻不是老師要的，真可惜。但團隊討論的感覺真的很棒。&lt;p&gt;</summary><category term="期中測驗"></category></entry><entry><title>Week 8</title><link href="./Week%208.html" rel="alternate"></link><published>2017-04-12T22:00:00+08:00</published><updated>2017-04-12T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-04-12:./Week 8.html</id><summary type="html">&lt;p&gt;自評&lt;/p&gt;
+
+
+&lt;p&gt;小組互評: &lt;a href="https://pygroup-ag100.rhcloud.com"&gt;https://pygroup-ag100.rhcloud.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;個人自評: &lt;a href="http://mde1a2.kmol.info:8000/k96tgzh1ofbl"&gt;http://mde1a2.kmol.info:8000/k96tgzh1ofbl&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這是第八次上課，開始自評了，也要開始做東西了。不然會40分。&lt;p&gt;</summary><category term="自評"></category></entry><entry><title>Week 7</title><link href="./Week%207.html" rel="alternate"></link><published>2017-04-05T22:00:00+08:00</published><updated>2017-04-05T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-04-05:./Week 7.html</id><summary type="html">&lt;p&gt;Fossil 推送檔案和V-rep模擬八連桿機構&lt;/p&gt;
+
+
+&lt;h3&gt;Fossil 推送檔案&lt;/h3&gt;
+
+&lt;pre&gt;
+mkdir wd
+cd wd&lt;/pre&gt;
+
+&lt;pre&gt;
+mkdir w7
+cd w7&lt;/pre&gt;
+
+&lt;pre&gt;fossil open ./../../bg8.fossil&lt;/pre&gt;
+
+&lt;pre&gt;
+fossil add .
+fossil remote-url off
+fossil commit -m "提交的註解"
+fossil push https://user@10.0.0.130 &lt;/pre&gt;
+
+&lt;h3&gt;Solvespace&lt;/h3&gt;
+
+&lt;p&gt;組合&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-1.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;bracket_lower&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-2.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;link_15&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-3.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;link_39.3&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-4.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;link_39.4&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-5.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;link_50&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-6.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;link_62&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-7.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;link_fixed&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-8.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pin_10&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-9.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pin_15&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-10.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;triangle_upper&lt;/p&gt;
+
+&lt;iframe src="../data/image/W7-11.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214529063" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這是第七次上課，跟之前一樣畫圖，只是這次比較多，而且這次有教Fossil推送檔案，學的真多。&lt;/p&gt;</summary><category term="Fossil 推送檔案和Solvespace完成八連桿機構跟用V-rep模擬"></category></entry><entry><title>Week 6</title><link href="./Week%206.html" rel="alternate"></link><published>2017-03-29T22:00:00+08:00</published><updated>2017-03-29T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-03-29:./Week 6.html</id><summary type="html">&lt;p&gt;V-rep 模擬 Onebar&lt;/p&gt;
+
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214401019" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這是第六次上課，這次跟上次一樣，只是用不同的軟體開啟而已，真是簡單。&lt;p&gt;</summary><category term="V-rep 模擬 Oneba"></category></entry><entry><title>Week 5</title><link href="./Week%205.html" rel="alternate"></link><published>2017-03-22T22:00:00+08:00</published><updated>2017-03-22T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-03-22:./Week 5.html</id><summary type="html">&lt;p&gt;Fossil SCM 與 Stunnel 啟動整合跟顯示作業和在 V-rep 模擬 Fourbar&lt;/p&gt;
+
+
+&lt;h3&gt;Fossil SCM 與 Stunnel 啟動整合&lt;/h3&gt;
+
+&lt;p&gt;1. 更改 Start.bat 設定&lt;/p&gt;
+
+&lt;pre class="brush: python"&gt;
+REM tiny2017 主要針對初學 Python3 與 C 學員所建立
+REM 近端使用 fossil 管理資料版本, 並且定時轉為 git 格式後上傳到 github
+@echo off
+REM 設定 y 硬碟代號與 data 目錄對應
+set Disk=y
+subst %Disk%: "data"
+REM 設定 leo 相關對應 Home 位置
+set HomePath=%Disk%:\home
+set HomeDrive=%Disk%:\home
+set Home=%Disk%:\home
+REM 將系統 Python 程式的 io 設為 utf-8
+set PYTHONIOENCODING="utf-8"
+REM 將後續的指令執行, 以 %Disk% 為主
+%Disk%:
+REM 設定 PYTHONPATH
+set PYTHONPATH=%Disk%:\python-3.5.3-embed-amd64
+REM 設定 Leo 所用的編輯器
+set LEO_EDITOR=%Disk%:\wscite\SciTE.exe
+REM for fossil https 連線設定
+set HTTPS=on
+REM 指令搜尋路徑設定
+set path1=%PATH%;%Disk%:;%Disk%:\python-3.5.3-embed-amd64;%Disk%:\git\bin;%Disk%:\stunnel\bin;%Disk%:\sqlite-tools;%Disk%:\python-3.5.3-embed-amd64\Scripts;%Disk%:\portablegit\bin;
+set path2=c:\Windows\Microsoft.NET\Framework\v3.5;%Disk%:\python-3.5.3-embed-amd64\Lib\site-packages;
+set path3="C:\Program Files (x86)\Google\Chrome\Application"
+path=%path%;%path1%;%path2%;%path3%
+start /MIN %Disk%:\wscite\SciTE.exe
+start /MIN cmd.exe
+start /MIN cmd.exe
+start /MIN cmd.exe
+REM 啟動 Leo 編輯器
+REM %Disk%:\Miniconda3\python.exe %Disk%:\apps\launchLeo.py
+REM 啟動 stunnel
+start /MIN fossil.exe server -P 127.0.0.1:8080 %Disk%:\tmp\fossil_repo\2017springcd_bg1.fossil
+REM 取得電腦 IP, 然後設定 %Disk%:/stunnel/config/stunnel.conf
+for /f "delims=[] tokens=2" %%a in ('ping -4 -n 1 %ComputerName% ^| findstr [') do set NetworkIP=%%a
+REM echo Network IP: %NetworkIP%
+REM Saved in %Disk%:\stunnel\config\stunnel.conf
+@echo off
+REM 建立 stunnel.conf
+@echo [https] &gt; %Disk%:\stunnel\config\stunnel.conf
+REM 附加資料
+@echo accept = %NetworkIP%:443 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo connect = 127.0.0.1:8080 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo TIMEOUTclose = 0 &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo cert = %Disk%:\stunnel\config\localhost.crt &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+@echo key = %Disk%:\stunnel\config\localhost.key &gt;&gt; %Disk%:\stunnel\config\stunnel.conf
+REM 啟動 stunnel
+start /MIN stunnel.exe
+REM 以 chrome 連線到 https://%NetworkIP%:443
+chrome https://%NetworkIP% https://mde2a2.kmol.info/cdbg8
+Exit
+&lt;/pre&gt;
+
+&lt;h3&gt;如何在fossil筆記倉儲主頁顯示作業&lt;/h3&gt;
+
+&lt;p&gt;只要在wiki裡新增一個與倉儲筆記同名稱的檔案，即可在fossil筆記倉儲主頁顯示作業&lt;/p&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214395459" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這是第五次上課，老師教我們如何在fossil筆記倉儲主頁顯示作業，並利用Solvespace讓四桿機構轉動，今天學的真多。&lt;p&gt;</summary><category term="Fossil SCM 與 Stunnel 啟動整合跟顯示作業和在 V-rep 模擬 Fourbar"></category></entry><entry><title>Week 4</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T22:00:00+08:00</published><updated>2017-03-15T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;p&gt;建立協同主機和單桿機構組件&lt;/p&gt;
+
+
+&lt;p&gt;&lt;h3&gt;建立協同主機 2017springcd_bg8&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;2017springcd_bg8: &lt;a href="https://mde2a2.kmol.info/cdbg8"&gt;https://mde2a2.kmol.info/cdbg8&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Solvespace&lt;/h3&gt;
+
+&lt;p&gt;組合&lt;/p&gt;
+
+&lt;iframe src="../data/image/W4-1.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Link_70&lt;/p&gt;
+
+&lt;iframe src="../data/image/W4-2.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Link_80&lt;/p&gt;
+
+&lt;iframe src="../data/image/W4-3.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Pin&lt;/p&gt;
+
+&lt;iframe src="../data/image/W4-4.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Onshape&lt;/h3&gt;
+
+&lt;p&gt;Link_70&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W4-1.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;Link_80&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W4-2.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;Pin&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W4-3.png" width="800" /&gt;&lt;/p&gt;
+&lt;h3&gt;問題&lt;/h3&gt;
+
+&lt;p&gt;這次GitHub又發生跟上次一樣推送出現問題。&lt;p&gt;
+
+&lt;img src="../data/image/W4-4.png" width="800" /&gt;
+
+&lt;h3&gt;解決辦法&lt;/h3&gt;
+&lt;p&gt;刪除 plugin 下的 liquid_tags 目錄&lt;p&gt;
+
+&lt;img src="../data/image/W4-5.png" width="800" /&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214359929" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214390730" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+
+
+
+&lt;h3&gt;心得&lt;/h3&gt;
+&lt;p&gt;這是第四次上課，跟上禮拜一樣在畫圖，但這次還多了要創建自己組的協同主機。還好滿簡單的。&lt;p&gt;</summary><category term="建立協同主機和單桿機構組件"></category></entry><entry><title>Week 3</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-08T22:00:00+08:00</published><updated>2017-03-08T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-03-08:./Week 3.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
+
+
+&lt;h3&gt;Solvespace&lt;/h3&gt;
+
+&lt;p&gt;Link_30&lt;/p&gt;
+
+&lt;iframe src="../data/image/W3-1.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Link_50&lt;/p&gt;
+
+&lt;iframe src="../data/image/W3-2.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Link_60&lt;/p&gt;
+
+&lt;iframe src="../data/image/W3-3.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;Onshape&lt;/h3&gt;
+
+&lt;p&gt;Link_30&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W3-1.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;Link_50&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W3-2.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;Link_60&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W3-3.png" width="800" /&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214355570" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/214357898" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這是第三次上課，要開始畫圖了，畫圖的話跟之前一樣這學期的wiki要在不同的地方編輯，感覺怪怪的，但用久就習慣了。&lt;p&gt;</summary><category term="四連桿機構"></category></entry><entry><title>Week 2</title><link href="./Week%202.html" rel="alternate"></link><published>2017-03-01T22:00:00+08:00</published><updated>2017-03-01T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-03-01:./Week 2.html</id><summary type="html">&lt;p&gt;分組座位和四連桿機構&lt;/p&gt;
+
+
+&lt;h3&gt;分組座位原始碼&lt;/h3&gt;
+
+&lt;pre class="brush: python"&gt;
+#import os
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_cadlab.txt 檔案,讓裡面的內容成為資料, 因為檔案裡有中文, 所以設定encoding 使用utf-8 的編驛碼
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+#用print 先檢查資料是否是我們需要的
+alist = adata.splitlines()
+#利用splitlines 的方法把資料隔開, 就可以得到一個特定的數列
+#print(alist[2])
+n = 0
+row = 0
+final_list = []
+w2_list = []
+for stud_num in alist[2:]:
+#從第2列開始, 因為第0列和第1列都不是我們要的
+    row = row + 1
+    blist = stud_num.split("\t")
+    #print(blist)
+    column = 0
+    #為了避免序號連續, 利用column = 0 將順序重製, 因為每一列算完之後要換下一列重新開始
+    for i in range(len(blist)):
+        column = column + 1
+        if blist[i] != "":
+            #print(blist[i])
+            clist = blist[i].split("_")
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+            final_list.append(stud_data)
+            w2_list.append(clist[1])
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+print("分組名單:")
+for i in range(len(group_list)):
+    print(group_list[i])
+print("座位列表:")
+for i in range(len(final_list)):
+    print(final_list[i])
+for i in range(len(rdata)):
+    if rdata[i] not in w2_list:
+        print("缺席學生:", rdata[i])
+print("學生總數:", n)
+#print(os.environ)
+&lt;/pre&gt;
+
+&lt;h3&gt;Solvespace&lt;/h3&gt;
+
+&lt;iframe src="../data/image/W2-1.html" width="800" height="480"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/213250415" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這是第二次上課，重新分組了，但還是要用Solvespace畫4連桿機構組。感覺跟上學習差不多。&lt;p&gt;</summary><category term="分組座位和四連桿機構"></category></entry><entry><title>Week 1</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-22T22:00:00+08:00</published><updated>2017-02-22T22:00:00+08:00</updated><author><name>40423225</name></author><id>tag:,2017-02-22:./Week 1.html</id><summary type="html">&lt;p&gt;Stunnel.conf IP設定&lt;/p&gt;
+
+
+&lt;h3&gt;未修改 stunnel.conf 的 IP 設定&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W1-1.png" width="800" /&gt;&lt;/p&gt;
+&lt;h3&gt;修改過 stunnel.conf 的 IP 設定&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="../data/image/W1-2.png" width="800" /&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/213207897" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;&lt;a href="https://vimeo.com/user60053503"&gt;個人影片區&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3&gt;心得&lt;/h3&gt;
+
+&lt;p&gt;這又是新的學期，開始交新的東西，雖然上學習被當了。但下學期還是會努力學習。&lt;p&gt;</summary><category term="Stunnel.conf IP設定"></category></entry></feed>
